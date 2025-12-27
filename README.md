@@ -40,9 +40,5 @@ Tavla Pro, modern tasarımı, akıllı yapay zekası ve pürüzsüz animasyonlar
 3. Gerekli SDK bileşenlerinin yüklü olduğundan emin olun.
 4. `Build -> Rebuild Project` yaparak projeyi derleyin ve çalıştırın.
 
-## 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-
 ---
 *Geliştiren: Eka Yazılım Bilişim Sistemi*
