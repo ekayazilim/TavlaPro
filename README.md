@@ -45,4 +45,4 @@ Tavla Pro, modern tasarımı, akıllı yapay zekası ve pürüzsüz animasyonlar
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
 ---
-*Geliştiren: [Sizin Adınız/Kullanıcı Adınız]*
+*Geliştiren: Eka Yazılım Bilişim Sistemi*
